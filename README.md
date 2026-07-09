@@ -12,7 +12,7 @@ I'm passionate about building practical software projects and continuously impro
 - 📍 Bengaluru, Karnataka, India
 - 💻 Interested in AI, Machine Learning & Full-Stack Development
 - 🌱 Currently learning Data Structures, AI/ML and Web Development
-- 🎯 Looking for Internship Opportunities
+- 🎯 Open to Software Development and AI/ML Internship Opportunities
 
 ---
 
