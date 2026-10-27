@@ -1,88 +1,93 @@
-# Hi there! 👋 I'm Kunal Chaudhary
+<div align="center">
 
-🎓 B.Tech (Artificial Intelligence & Machine Learning) Student at **Dayananda Sagar University, Bengaluru**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Kunal%20Chaudhary&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Student%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&descSize=17" width="100%" alt="Kunal Chaudhary — AI/ML student and machine learning enthusiast" />
 
-I'm passionate about building practical software projects and continuously improving my programming skills. Currently, I'm exploring AI/ML while strengthening my foundation in full-stack development.
+<p>
+  <a href="https://github.com/1kunal2006"><img src="https://img.shields.io/badge/GitHub-1kunal2006-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/kunalchaudhary06/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+</p>
 
----
+</div>
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 B.Tech AIML | 5th Semester
-- 📍 Bengaluru, Karnataka, India
-- 💻 Interested in AI, Machine Learning & Full-Stack Development
-- 🌱 Currently learning Data Structures, AI/ML and Web Development
-- 🎯 Open to Software Development and AI/ML Internship Opportunities
+I'm a **B.Tech Artificial Intelligence & Machine Learning student at Dayananda Sagar University, Bengaluru**. I enjoy working with data, exploring machine-learning models, and turning experiments into practical projects.
 
----
+- 🤖 Focused on **Python, data analysis, and machine learning**
+- 📊 Practising the end-to-end ML workflow: data cleaning, EDA, feature engineering, model training, and evaluation
+- 🌱 Currently strengthening my foundations in **machine learning and data structures & algorithms**
+- 🎯 Interested in **software development and AI/ML internship opportunities**
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
-- Python
-- C
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- HTML
-- CSS
-- Git
-- GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,git,github,vscode&perline=8" alt="Python, FastAPI, HTML, CSS, JavaScript, Git, GitHub and VS Code" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🏦 Tax Optimization Platform
-AI-powered tax optimization platform built using React, Node.js, Express.js and MongoDB.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/1kunal2006/Mental-Health-Score-Prediction">Mental Health Score Prediction</a></h3>
+      <p>End-to-end ML project exploring student lifestyle and well-being data, with a trained regression pipeline and a browser-based prediction app.</p>
+      <p><a href="https://mental-health-score-prediction-1-nsp6.onrender.com"><strong>🚀 Live Demo</strong></a> · <a href="https://mental-health-score-prediction-1-nsp6.onrender.com/docs">API Docs</a></p>
+      <sub>Python · Pandas · scikit-learn · FastAPI · Render</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/1kunal2006/insurance-charges-prediction">Insurance Charges Prediction</a></h3>
+      <p>Exploratory data analysis, feature engineering, and a Linear Regression model to estimate medical insurance charges.</p>
+      <sub>Python · Pandas · NumPy · scikit-learn</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/1kunal2006/Ford-Car-Price-Prediction">Ford Car Price Prediction</a></h3>
+      <p>Notebook-based analysis of Ford car data, including visual exploration, preprocessing, and a regression model for price prediction.</p>
+      <sub>Python · Data Visualization · scikit-learn</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚢 <a href="https://github.com/1kunal2006/Titanic-project">Titanic Survival Prediction</a></h3>
+      <p>Classification project covering missing-value handling, feature preparation, model comparison, and evaluation.</p>
+      <sub>Python · Pandas · Seaborn · scikit-learn</sub>
+    </td>
+  </tr>
+</table>
 
-### ❤️ Health Bot
-A healthcare chatbot designed to provide basic health assistance and improve accessibility.
+<details>
+  <summary><strong>📚 More learning projects</strong></summary>
+  <br />
 
-### ⚡ Smart Energy Calculator
-A smart application for estimating and optimizing energy consumption.
-
-### 🎓 DSU CGPA Calculator
-A calculator developed for Dayananda Sagar University students to estimate their CGPA.
-
----
-
-## 🎤 Beyond Coding
-
-Apart from technology, I'm also a **Stand-up Comedian**. Performing on stage has helped me improve my communication, confidence, creativity, and public speaking skills.
-
----
+  - 🌸 [Iris Species Classification](https://github.com/1kunal2006/Iris-project) — comparing classifiers, tuning hyperparameters, and experimenting with ensemble learning.
+  - 🔢 [NumPy Fundamentals](https://github.com/1kunal2006/Numpy-learning) — hands-on practice with arrays, indexing, vectorized operations, and matrix computations.
+</details>
 
 ## 🌱 Currently Learning
 
-- Machine Learning
+- Machine learning fundamentals and model evaluation
 - Data Structures & Algorithms
-- Python for AI
-- Git & GitHub Best Practices
+- Writing cleaner, more reproducible Python projects
 
----
+## 📊 GitHub at a Glance
 
-## 📫 Connect With Me
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1kunal2006&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub contribution and repository statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1kunal2006&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Most-used programming languages on GitHub" />
+</div>
 
-- GitHub: https://github.com/1kunal2006
-- LinkedIn: *(Coming Soon)*
+## 🤝 Let's Connect
 
----
+- 💼 LinkedIn: [kunalchaudhary06](https://www.linkedin.com/in/kunalchaudhary06/)
+- 💻 GitHub: [@1kunal2006](https://github.com/1kunal2006)
 
-⭐ *"Learning consistently, building meaningful projects, and improving one step at a time."*
-
-<!--
-**1kunal2006/1kunal2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer" width="100%" alt="" />
+  <sub>Learning consistently · Building projects · Improving one step at a time</sub>
+</div>
