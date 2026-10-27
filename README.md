@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Kunal%20Chaudhary&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Student%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&descSize=17" width="100%" alt="Kunal Chaudhary — AI/ML student and machine learning enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Kunal%20Chaudhary&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Student%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&descSize=17" width="100%" alt="Kunal Chaudhary — AI/ML student focused on Python and machine learning" />
 
 <p>
   <a href="https://github.com/1kunal2006"><img src="https://img.shields.io/badge/GitHub-1kunal2006-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
@@ -11,75 +11,55 @@
 
 ## 👋 About Me
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student at Dayananda Sagar University, Bengaluru**. I enjoy working with data, exploring machine-learning models, and turning experiments into practical projects.
+I'm a **B.Tech Artificial Intelligence & Machine Learning student at Dayananda Sagar University, Bengaluru**. I'm building practical experience with Python, data analysis, and machine learning by working through the full process—from exploring data to training and evaluating predictive models.
 
-- 🤖 Focused on **Python, data analysis, and machine learning**
-- 📊 Practising the end-to-end ML workflow: data cleaning, EDA, feature engineering, model training, and evaluation
-- 🌱 Currently strengthening my foundations in **machine learning and data structures & algorithms**
-- 🎯 Interested in **software development and AI/ML internship opportunities**
+- 🤖 **Focus:** Python, data analysis, and machine learning
+- 📊 **Hands-on practice:** Data cleaning, exploratory data analysis, feature preparation, regression, and model evaluation
+- 🧠 **Current focus:** Strengthening ML fundamentals and writing clearer, more reproducible projects
+- 🎯 **Goal:** Find opportunities to learn and contribute through AI/ML or software-related internships
 
-## 🧰 Tech Stack
+## 🧰 Tools Used in My Projects
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,html,css,js,git,github,vscode&perline=8" alt="Python, FastAPI, HTML, CSS, JavaScript, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,git,github,jupyter&perline=5" alt="Python, FastAPI, Git, GitHub and Jupyter" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🧠 <a href="https://github.com/1kunal2006/Mental-Health-Score-Prediction">Mental Health Score Prediction</a></h3>
-      <p>End-to-end ML project exploring student lifestyle and well-being data, with a trained regression pipeline and a browser-based prediction app.</p>
-      <p><a href="https://mental-health-score-prediction-1-nsp6.onrender.com"><strong>🚀 Live Demo</strong></a> · <a href="https://mental-health-score-prediction-1-nsp6.onrender.com/docs">API Docs</a></p>
-      <sub>Python · Pandas · scikit-learn · FastAPI · Render</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/1kunal2006/insurance-charges-prediction">Insurance Charges Prediction</a></h3>
-      <p>Exploratory data analysis, feature engineering, and a Linear Regression model to estimate medical insurance charges.</p>
-      <sub>Python · Pandas · NumPy · scikit-learn</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/1kunal2006/Ford-Car-Price-Prediction">Ford Car Price Prediction</a></h3>
-      <p>Notebook-based analysis of Ford car data, including visual exploration, preprocessing, and a regression model for price prediction.</p>
-      <sub>Python · Data Visualization · scikit-learn</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚢 <a href="https://github.com/1kunal2006/Titanic-project">Titanic Survival Prediction</a></h3>
-      <p>Classification project covering missing-value handling, feature preparation, model comparison, and evaluation.</p>
-      <sub>Python · Pandas · Seaborn · scikit-learn</sub>
+      <p>An end-to-end machine learning project exploring how student lifestyle and social-media habits relate to a dataset's mental-health score. Includes data analysis, preprocessing, regression-model comparison, evaluation, and a browser-based prediction app.</p>
+      <p><a href="https://mental-health-score-prediction-1-nsp6.onrender.com"><strong>🚀 Try the Live Demo</strong></a> · <a href="https://mental-health-score-prediction-1-nsp6.onrender.com/docs">API Documentation</a> · <a href="https://github.com/1kunal2006/Mental-Health-Score-Prediction/blob/main/mental_health_project.ipynb">Explore the Notebook</a></p>
+      <sub>Python · Pandas · NumPy · scikit-learn · FastAPI · Render</sub>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><strong>📚 More learning projects</strong></summary>
-  <br />
+> **Note:** This is an educational prediction project, not a clinical assessment or mental-health diagnosis.
 
-  - 🌸 [Iris Species Classification](https://github.com/1kunal2006/Iris-project) — comparing classifiers, tuning hyperparameters, and experimenting with ensemble learning.
-  - 🔢 [NumPy Fundamentals](https://github.com/1kunal2006/Numpy-learning) — hands-on practice with arrays, indexing, vectorized operations, and matrix computations.
-</details>
+## 📚 Other Machine Learning Practice
+
+- 📈 [Insurance Charges Prediction](https://github.com/1kunal2006/insurance-charges-prediction) — exploratory analysis, feature preparation, and a Linear Regression model for estimating insurance charges.
 
 ## 🌱 Currently Learning
 
 - Machine learning fundamentals and model evaluation
 - Data Structures & Algorithms
-- Writing cleaner, more reproducible Python projects
+- Building more reliable, reproducible Python projects
 
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1kunal2006&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub contribution and repository statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1kunal2006&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Most-used programming languages on GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1kunal2006&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1kunal2006&layout=compact&hide_border=true&theme=tokyonight&langs_count=5" alt="Languages detected in GitHub repositories" />
 </div>
 
 ## 🤝 Let's Connect
